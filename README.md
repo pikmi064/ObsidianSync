@@ -1,1 +1,1 @@
-# ObsidianSync
+# ObsidianSync is cool!!!!!
