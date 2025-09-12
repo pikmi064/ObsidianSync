@@ -38,6 +38,7 @@ git clone <url>
 git status
 git log
 git log --oneline --graph --all
+git log --oneline --graph main..
 ```
 
 ### **Работа с изменениями**
